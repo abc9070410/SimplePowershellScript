@@ -2,7 +2,9 @@
 ""
 "Name : File Sorter "
 "Description : A file arrangement which move the files to the matched directories "
-""
+"For Example : Directory X(file a, file b, file c) -> Directory A(file a)"
+"                                                     Directory B(file b)"
+"                                                     Directory C(file c)"
 "---------------------------------------------------------------------------"
 
 $gsFilePath = "C:\MY\COMIC\"
